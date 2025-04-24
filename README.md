@@ -24,9 +24,9 @@ predictions.
 
 ## Conclusion
 • The rice grain classification model built using transfer learning with MobileNetV2 achieved 
-excellent results, demonstrating its effectiveness in accurately identifying different rice varieties. With a test accuracy of 98.6%, a low loss of 0.0456, and a weighted F1-score of 0.99, 
+excellent results, demonstrating its effectiveness in accurately identifying different rice varieties. With a test accuracy of 98.6%, a low loss of 0.0456, and a weighted F1-score of 0.99, 
 the model shows exceptional generalization and minimal misclassification across all five rice 
-classes. The confusion matrix confirms the model’s robustness in distinguishing between Arborio, Basmati, Ipsala, Jasmine, and Karacadag. Loading the dataset using TensorFlow’s 
-image_dataset_from_directory function ensured accurate class labeling, crucial for prediction mapping. The system also includes a function to predict and display the class of a single 
+classes. The confusion matrix confirms the model’s robustness in distinguishing between Arborio, Basmati, Ipsala, Jasmine, and Karacadag. Loading the dataset using TensorFlow’s 
+image_dataset_from_directory function ensured accurate class labeling, crucial for prediction mapping. The system also includes a function to predict and display the class of a single 
 image with high confidence. Overall, the model proves to be a reliable and efficient solution 
 for automated rice grain classification.
