@@ -10,11 +10,15 @@ simple user interface will allow users to upload images and receive rice type pr
  ## Objectives
 • To develop an image classification model using CNN and transfer learning for rice grain 
 identification.
+
 • To utilize a pre-trained model (e.g., MobileNetV2) for feature extraction and fine-tune it on 
 the rice grain dataset.
+
 • To evaluate the model using performance metrics such as accuracy, precision, recall, and 
 F1-score.
+
 • To apply hyperparameter tuning techniques to improve model performance.
+
 • To design a user-friendly interface that allows users to upload rice grain images and receive 
 predictions.
 
